@@ -1,2 +1,2 @@
 # UnceRtainty
-A package for helping evaluate models for uncertainty and classification performance (by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan)
+A package for helping evaluate logistic models for uncertainty and classification performance (by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan)
