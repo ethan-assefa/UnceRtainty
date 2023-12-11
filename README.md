@@ -1,6 +1,6 @@
 # UnceRtainty
 
-![Logo](http://url/to/img.png))
+![Logo](http://url/to/img.png)
 
 *by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan*
 
