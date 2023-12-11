@@ -1,6 +1,6 @@
 # UnceRtainty
 
-![Logo](http://url/to/img.png)
+![Package Logo]([http://url/to/img.png](https://github.com/ethan-assefa/UnceRtainty/blob/main/PackageLogo.png?raw=true))
 
 *by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan*
 
