@@ -1,12 +1,12 @@
 # UnceRtainty
 
+*Created by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan*
+
 <p align="center">
   <img src="https://github.com/ethan-assefa/UnceRtainty/blob/main/PackageLogo.png?raw=true" alt="Package Logo" width="350"/>
 </p>
 
-*by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan*
-
-A package for helping evaluate logistic models for uncertainty and classification performance.
+UnceRtainty is a package for helping evaluate logistic models for uncertainty and classification performance. The sorting hat, inspired by Harry Potter, symbolizes classification models' binary decision-making nature. 
 
 ## Purpose
 The `UnceRtainty` package provides evaluation of logistic models through a comprehensive suite of tools for assessing both uncertainty and classification performance. This package serves as a valuable resource for researchers, data scientists, and analysts working with logistic regression models. By offering a range of functions and visualizations, users can efficiently explore model uncertainties, assess the reliability of predictions, and gain insights into the overall performance of their logistic models. The package is designed to enhance the model evaluation process by offering a user-friendly interface, robust statistical metrics, and informative graphical outputs, empowering users to make informed decisions about model selection, calibration, and deployment. Whether users are focused on binary or multiclass classification tasks, your package aims to be a versatile and indispensable tool for evaluating logistic models in a rigorous and efficient manner. An example of 
