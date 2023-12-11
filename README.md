@@ -1,9 +1,8 @@
 # UnceRtainty
 
-<div style="text-align:center">
-  <img src="https://github.com/ethan-assefa/UnceRtainty/blob/main/PackageLogo.png?raw=true" alt="Package Logo" width="500"/>
-</div>
-
+<p align="center">
+  <img src="https://github.com/ethan-assefa/UnceRtainty/blob/main/PackageLogo.png?raw=true" alt="Package Logo" width="350"/>
+</p>
 
 *by Ethan Assefa, Thomas Burrell, Tatev Gomtsyan*
 
